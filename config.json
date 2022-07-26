@@ -1,96 +1,617 @@
 {
-  "Config": [
-    {
-      "interval": 5,
-      "backup": "unity",
-      "status": true,
-      "link": "https://google.com/",
-      "contact": "https://google.com/",
-      
-      "addon": false,
-      "maps": false,
-      "texture": false,
-      "skin": false,
-      "more": false,
-      
-      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294",
-      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native": "ca-app-pub-3940256099942544/2247696110",
-     
-      
-      "unity_banner": "Banner_Android",
-      "unity_inter": "Interstitial_Android",
-      
-      
-      "applovin_banner": "unitid",
-      "applovin_inter": "unitid",
-      "applovin_native": "unitid",
-      
-      "ironsource_banner": "1215fccad",
-      "ironsource_inter": "1215fccad",
-      "fan_banner":"YOUR_PLACEMENT_ID",
-      "fan_inter":"YOUR_PLACEMENT_ID",
-      "fan_native":"YOUR_PLACEMENT_ID"
-      
-      
-    }
-  ],
-  "Addon": [
-    {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
-    }
-  ],
-  "Map": [
-    {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
-    }
-  ],
-  "Texture": [
-    {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
-    }
-  ],
-  "Skins": [
-    {
-      "id": 4646743605,
-      "name_skin": "",
-      "skin_url": "https://lh3.googleusercontent.com/ccXTqq5mRIfv36nbOqvKEu4smlTOgEC9Vx3v_hgMJ7RDI1Zg2z6lIm7d4UhBon3hrSKNAYFV09rmlqHT2uon",
-      "view_skin": "https://lh3.googleusercontent.com/sP7XwfJd6fERGo-ayFyQJtSHnBsoLSUGMjBlIZJOCIfclXUgggCPaC_50jdl03ydpTt5bfn1xHiFIfPE6qODO_I"
-    }
-  ],
-  "More":
-  [
-      
-      
+    "Config": [
+      {
+        "interval": 2,
+        "backup": "applovin",
+        "status": true,
+        "link": "https://google.com/",
+        "contact": "https://google.com/",
+        
+        "addon": true,
+        "maps": true,
+        "texture": true,
+        "skin": false,
+        "more": false,
+        
+        "admob_open_ads": "ca-app-pub-3044835834543602/6092748325",
+        "admob_banner": "ca-app-pub-3940256099942544/6300978111xxx",
+        "admob_inter": "ca-app-pub-3044835834543602/6475891703",
+        "admob_native": "ca-app-pub-3044835834543602/8718911668",
+       
+        
+        "unity_banner": "Banner_Android",
+        "unity_inter": "Interstitial_Android",
+        
+        
+        "applovin_banner": "30bedf9f9460fcbb",
+        "applovin_inter": "9067635a8e1f755c",
+        "applovin_native": "08241db47cf60f63",
+        
+        "ironsource_banner": "1215fccad",
+        "ironsource_inter": "1215fccad",
+        "fan_banner":"YOUR_PLACEMENT_ID",
+        "fan_inter":"YOUR_PLACEMENT_ID",
+        "fan_native":"YOUR_PLACEMENT_ID"
+        
+        
+      }
+    ],
+    "Addon": [
+        {
+            "name": "V1.2 Ninja Armor",
+            "role": "Ninja armor is a new minecraft addon than adds new ninja armors,  new swords and the new projectils (shiruren, kunai, ninja star, kama, mesibushi,and more). Everything can be obtained from survival. The addon has compatibility with the samurai armor addon you can check out at this link mcpedl.com/samurai-armor-addon-1/",
+            "image": "https://kossandroid.com/Data Android/Minecraft/ninja/1/1.jpeg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/ninja/1/V1.2_Ninja_armor_1626732788611.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/ninja/1/3.jpeg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/ninja/1/2.jpeg"
+        },
+        {
+            "name": "Combastical Ninjas Addon",
+            "role": "In here I bring you super strong mobs that are more formidable than any other mobs in MCBE. Today I will show you the very strong mobs, it will beat anything if you try it against other mobs. Well we can see if they are really strong or not, so they can be in a mob battle!!!",
+            "image": "https://kossandroid.com/Data Android/Minecraft/ninja/2/1.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/ninja/2/Combastical Ninjas.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/ninja/2/3.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/ninja/2/2.png"
+        },
+        {
+            "name": "Ninja Pack",
+            "role": "Do you want to be like a Ninja in Minecraft? Data Android/Minecraft/ninja/3/1.png Well this addon add items that ninja use Like shuriken, katana, sickle and more! This addon also add a Ninja that holds a katana!",
+            "image": "https://kossandroid.com/Data Android/Minecraft/ninja/3/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/ninja/3/Ninja Pack.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/ninja/3/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/ninja/3/2.png"
+        },
+        {
+            "name": "WITHER DRAGON",
+            "role": "WITHER DRAGON it's a ender dragon but it turns into wither then we called it wither dragon another Strong boss his not like normal wither boss his stronger than wither you can beat him if you are strong enough!",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Wither/2/tiga.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/2/WITHERDRAGON.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/2/satu.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/2/dua.png"
+        },
+        {
+            "name": "WITHER STORM...",
+            "role": "Yes! Wither storm! Your dream comes true! I bring you this addon come in and see it!",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Wither/1/enam.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/1/SW-Wither-StormV2new.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/1/dua.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/1/empat.png"
+        },
+        {
+            "name": "Wither Patrols",
+            "role": "Have you ever wanted a little more fun, danger, or maybe even action to Minecraft? If so, then this pack will help. Wither patrols allows the wither to spawn in the overworld automatically and wreak havoc, but don't worry, for your protection, we added Armored Villagers! These villagers use bows to attack any monster in sight, they can even defeat the wither. Just don't hit one, or else the Iron Golem and the Villager will attack you!",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Wither/3/satu.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/3/Wither_Patrols_1593553427.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/3/empat.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/3/dua.png"
+        },
+        {
+            "name": "More Wither Addon",
+            "role": "This addon adds mor ewither to Minecraft. You can only summon the withers though. All different wither drop the Nether star item. The different withers differs in damage from one another.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Wither/4/enam.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/4/More Wither Addon _1585929669810.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/4/empat.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/4/dua.png"
+        },
+        {
+            "name": "Wither Rose Addon",
+            "role": "This add-on adds Java's Wither Rose that will eventually be in an upcoming updating for Minecraft: Bedrock Edition. Wither Roses are roses that give off the Wither effect when you walk into them. This add-on functions similarly to that of Java, except for a few differences and issues.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Wither/5/satu.jpg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/5/wither_rose.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/5/dua.jpg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/5/dua.jpg"
+        },
+        {
+            "name": "Baby Wither Skeletons [Addon]",
+            "role": "Imagine adventuring out in the nether and you suddenly encounter Wither Skeletons, But not just that!",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Wither/9/tiga.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/9/babyWitherSkeletons.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/9/satu.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/9/dua.png"
+        },
+        {
+            "name": "Wither Skeleton Knight Addon",
+            "role": "In a recent update, we received the Piglin Brute, which is a very powerful version of the Piglin that guards the treasures inside Bastions and isn't afraid of anything. But what if there was also a more powerful wither skeleton?",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Wither/10/satu.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/10/Wither-Skeleton-Knight-Addon.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/10/dua.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/10/dua.png"
+        },
+        {
+            "name": "Wither Storm Add-on",
+            "role": "The Wither Storm Add-on turns the wither boss into a large and frightening boss known in Minecraft Story Mode as the Wither Storm. It's like 20 times larger than the wither boss and also much more powerful. It's the ultimate challenge for anyone considering themselves a good fighter and want to find out how far their skills can take them. If you have the guts to challenge it let us know in the comments if you survived!",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Wither/11/lima.jpg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/11/Wither Storm Purple Add-on v3_0.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/11/enam.jpg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/11/empat.jpg"
+        },
+        {
+            "name": "Wither Storm Addon (Killeable) V3",
+            "role": "Hello everyone here i bring you a complement of the wither storm of the game minecraft story mode Original creator Of This Wither Storm With functionality of being able to die is JualetYT (ElparceJuan) THE ORIGINAL CREATOR WITHOUT THE CAPACITY TO DIE IS 鸥吃鱼 this addon adds to the storm wither and new scenes how the death of the storm wither (after killing the storm wither, his body will come out on the ground after a minute he will get up and",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Wither/15/enam.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/15/Wither Storm AddOn V3 KILLEABLE.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/15/empat.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/15/dua.png"
+        },
+        {
+            "name": "Strongest Wither Addon (最強ウィザーアドオン) ",
+            "role": "[First Post] This add-on changes the Wither attack and more. I am Japanese so my English is not perfect. Therefore, there may be a part that is difficult to understand. Please note.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Wither/17/tiga.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/17/wither_1604471654.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/17/satu.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/17/lima.png"
+        },
+        {
+            "name": "The Death Doomsday Wither Skeleton Titan Add-On",
+            "role": "Yes, the Titan with the giant trident, has a wave of portals behind it, its size like Titan, the unfathomable forces, ruler of all the univers. there's the death doomsday skeleton of Titan. It's time to see how powerful he is.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Wither/18/satu.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/18/TheDeathWsTitan.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/18/empat.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/18/dua.png"
+        },
+        {
+            "name": "Black Demon Wither Skeleton Titan! (Black Demon WitherZilla Update)",
+            "role": "Do you want another Titan Monster? Now I bring you a new titan namely 'Black Demon Wither Skeleton Titan', or it can also be called Leader of the Wither Skeletons.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Wither/19/lima.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/19/bdwstaddon.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/19/empat.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/19/dua.png"
+        },
+        {
+            "name": "Biomobs Addon (1.16+)",
+            "role": "This addon introduces 38 new mobs to fight in your survival worlds, this includes new variants for spiders, zombies, skeletons, Pillagers, and creeper! You can find them in Jungles, Frozen Biomes, Mushroom Islands, the End Dimension, and the Nether! Most of them even give harmful potion effects as well, so be careful!",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Wither/21/lima.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/21/Biomobs.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/21/enam.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/21/empat.png"
+        },
+        {
+            "name": "Wolf Armor, Bars, Storage and Slot To Eat",
+            "role": "You've complained about the delicate nature of wolves. This add-on has the option of craft enchantable armors to protect your wolves and the ability to store items in he. I hope u like.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Wither/23/enam.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/23/WolfArmorStorageBars2Juaneitor.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/23/empat.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/23/dua.png"
+        },
+        {
+            "name": "Boomerangs Add-on (1.14+)",
+            "role": "This add-on adds a new weapon in the game, a boomerang! There are other add-ons about this subject but this is my version. There are two types of boomerangs, a normal one and a piercing one. You can have fun with these new weapons just by throwing them around.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Wither/24/satu.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/24/Boomerangs.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/24/satu.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/24/satu.png"
+        },
+        {
+            "name": "Nether Mobs Spawn (+1.16)",
+            "role": "This addon integrates new ways to find the mobs of the 'nether fortress' and decreases the spawn of ghast in the Nether, makin 'they can only spawn in the soul sand valley biome.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Wither/25/satu.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/25/Nether-mobs-spawn_1605914257.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/25/satu.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/25/satu.png"
+        },
+        {
+            "name": "Withers",
+            "role": "This is a addon with more at the fav Minecraft boss The wither but I have made it in four versions each strong and one of them is inspired by another Minecraft game I’ll give you a hint mc sm if you know then nice and make sure to go to my new discord at: https://discord.gg/45NAJ8YTYW Ok so this is a beta version so tell me the glitches I already know that the wither storm can’t fly and I’m sorry it seems that some how it’s too heavy to fly but anyways time for The bosses/mobs",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Wither/28/tiga.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/28/Withers-addon_1611902135613_1611905254.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/28/dua.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/28/empat.png"
+        },
+        {
+            "name": "Summoning Talismans",
+            "role": "This addon adds Summoning Talismans that Summons mobs to fight for you right now there are only 6 mob types that can be summoned (more coming in the future) yey",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Wither/29/lima.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/29/summoning_talisman2.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/29/empat.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/29/dua.png"
+        },
+        {
+            "name": "Hardercore",
+            "role": "Hardercore changes vanilla entity AI to challenge players. These AI changes can be increases to health, speed, projectiles, or new behaviors entirely. To reward players for surviving Hardercore, chests contain better equipment, mobs drop better loot, and most experience rewards are increased.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Wither/30/tiga.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/30/Hardercore-1.3_1613555730.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/30/satu.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/30/lima.png"
+        },
+        {
+            "name": "Ninja Addon (R)",
+            "role": "Hello and welcome to my new Addon, in this Addon, I added new Ninja Tools And Armors,You can find full ninja armor, katana, dark steel, srak steel katana, and more!!These tools and armor will help you to fight mobs and beat the ender dragon like a ninja, you can craft these tools in the crafting table, and it's easy to get them,This is the addon, hope you enjoy it,Good luck. This is the addon, hope you enjoy it,",
+            "image": "https://kossandroid.com/Data Android/Minecraft/ninja/5/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/ninja/5/Ninja_Addon_RES.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/ninja/5/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/ninja/5/1.png"
+        },
+        {
+            "name": "Among Us (Map) (Addon)",
+            "role": "Among us has become really popular lately. So we decided to create a map and addon from it. Thats right its 2 in a price of 1! So Download it now to add it to your minecraft game and have a first person experience.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/2/empat.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/2/Among Us Addonv2.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/2/dua.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/2/delapan.png"
+        },
+        {
+            "name": "Sparta & Persia Addon",
+            "role": "Live among Spartans and Persians during when they were at war against Persia and their king Xerxes l, you must take care of the Persians if you do not want what they conquer you and you must help Leonidas and the brave Spartans keep their freedom from Great Persia Hello my friends who love Minecraft, here again with a new addon that is about Sparta and the Persian Empire, an addon where you will be between Spartan and Persian soldiers, a world where you are at the time of the medical wars, a world where you can be together with Leonidas and his 300 men, what do you say?",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/21/enam.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/21/Sparta-and-Persian-Empire.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/21/empat.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/21/dua.png"
+        },
+        {
+            "name": "New Ores Sword V2",
+            "role": "This is a complement that has a function of Adding New Ore to Your Game such as Cooper, Can, Platinum, Aluminum among others, With These Ores you can Create Swords, for greater experience in alternative mode. CrAftHere is the description of all the items in the addon.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/23/enam.jpeg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/23/New Ores Swords V2_1618828699642.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/23/dua.jpeg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/23/empat.jpeg"
+        },
+        {
+            "name": "Dragon Armor Addon (Spears Update)",
+            "role": "Hello and welcome to the Dragon armor addon. This addon adds some items, swords and the main part of this addon: the Dragon armor. Its a strong armor that is stronger and has a higher durability than diamond. There is also obsidian armor and sword.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/24/enam.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/24/Dragon-armor_1615037473577.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/24/empat.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/24/dua.png"
+        },
+        {
+            "name": "Kawaii Food Addon",
+            "role": "This adds a total of 8 foods and it maybe lag on your phone but its compatible its tested in android but not on ios and pc (bedrock edition)",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Kawaii/2/2.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Kawaii/2/Kawaii-Food.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Kawaii/2/1.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Kawaii/2/1.png"
+        },
+        {
+            "name": "Kawaii Items",
+            "role": "Kawaii Items by Cupidnora Posted On MCPEDL by me ( this addon is created by Cupidnora NOT ME ). This addon adds 28 + 2 wallpapers / Anime themed food Or retro-themed foods into your game, Please turn on Experimental gameplay <3 and cheats. To get all the items to type down /function cupidnora_kawaii_items (/give also works too!)This addon is survival-friendly, but you still need experimental gameplay on, the reason I said that is because there are crafting recipes for it. And when downloading, please watch it download for at least 3 minutes before taking action. !Warning!  please refresh your Minecraft before downloading or the pack icon won't show.",
+            "image": "https://kossandroid.com//Data Android/Minecraft/Kawaii/3/3.jpeg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Kawaii/4/_Pastel_Kawaii_Decorations_1620219139341.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Kawaii/3/2.jpeg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Kawaii/3/1.jpeg"
+        },
+        {
+            "name": "Among us Mini-Crewmates",
+            "role": "Do you play Among Us? And you cant afford any pet? Well this addon adds mini-crewmates in your world! And they are also tamable! And follow you anywhere you want There are now 6 mini crewmates! These are the mini-crewmates",
+            "image": "https://kossandroid.com/",
+            "file_url": "https://kossandroid.com/",
+            "imgcoversatu": "https://kossandroid.com/",
+            "imgcoverdua": "https://kossandroid.com/"
+        },
+        {
+            "name": "Among us Mini-Crewmates",
+            "role": "Do you play Among Us? And you cant afford any pet? Well this addon adds mini-crewmates in your world! And they are also tamable! And follow you anywhere you want There are now 6 mini crewmates! These are the mini-crewmates",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/25/enam.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/25/Mini Crewmates V2.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/25/empat.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/25/dua.png"
+        },
+        {
+            "name": "Among Us Totems! (Addon)",
+            "role": "Have you ever played Among Us before? If you have, then this addon is for you. It adds Crewmate and Impostor Totems into the game! So, don't be sus. Have a look at the Totems and find out what they do! (Suggest some more Among Us Totems in the comments. I'll add 2 more each update!) We are going to look at the items first! These will help craft the Totems and determine if you are a Crewmate or an Impostor...",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/27/satu.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/27/Among-Us-Totems-V1.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/27/dua.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/27/dua.png"
+        },
+        {
+            "name": "Ninja Addon (B)",
+            "role": "Hello and welcome to my new Addon, in this Addon, I added new Ninja Tools And Armors,You can find full ninja armor, katana, dark steel, srak steel katana, and more!!These tools and armor will help you to fight mobs and beat the ender dragon like a ninja, you can craft these tools in the crafting table, and it's easy to get them,This is the addon, hope you enjoy it,Good luck. This is the addon, hope you enjoy it,",
+            "image": "https://kossandroid.com/Data Android/Minecraft/ninja/5/1.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/ninja/5/Ninja_Addon_BEH.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/ninja/5/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/ninja/5/1.png"
+        },
+        {
+            "name": "M.A.R Ninja 200",
+            "role": "M.A.R. Ninja 200 is a type of custom motor bike that can be use  in the game and available to find  in creative inventory. I create this add-on to give more fun in the game. This is also useful in role play maps.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/ninja/6/2.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/ninja/6/M.A.R.-Ninja-200.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/ninja/6/1.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/ninja/6/1.png"
+        },
+        {
+            "name": "Throwables Addon Small Update (+102 Throwable Items [Simple Throwing Knives])",
+            "role": "So this addon adds +102 throwable items but i have to say that I just created this mod for fun but it actually has some good use in your survival world and is also multiplayer compatible.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/ninja/8/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/ninja/8/Throwables_addon_1620337096618.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/ninja/8/3.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/ninja/8/1.png"
+        }
+    ],
+    "Map": [
+        {
+            "name": "AMONG US: The Skeld Map",
+            "role": "Are you always wanna play Among Us in first person view? Then there you go! I recreated a map which has fully detailed based on The Skeld, a spaceship map in Among Us to let you guys experience playing Among Us in Minecraft first person view! Hope you guys love it.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/1/enam.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/1/Among Us The Skeld (fixed).mcworld",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/1/empat.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/1/dua.png"
+        },
+        {
+            "name": "Among Us 2 Airship",
+            "role": "Welcome to the Among us 2 Airship, A Parkour map or you can call it a speed run Parkour. Each level has around 1o or more jumps. This will be my 2nd among us parkour map, but this time its more easier then my other map. This is also celebrating my 2,000 Subscribers on my YouTube Channel.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/3/tiga.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/3/Among Us 2 Airship.mcworld",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/3/satu.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/3/dua.png"
+        },
+        {
+            "name": "Among Us 2 Airship",
+            "role": "Welcome to the Among us 2 Airship, A Parkour map or you can call it a speed run Parkour. Each level has around 1o or more jumps. This will be my 2nd among us parkour map, but this time its more easier then my other map. This is also celebrating my 2,000 Subscribers on my YouTube Channel.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/3/tiga.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/3/Among Us 2 Airship.mcworld",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/3/dua.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/3/satu.png"
+        },
+        {
+            "name": "Among Us Parkour Map",
+            "role": "Hey Guys Welcome to the Among Us Parkour map in this map you will parkouring all way to the end to press the emergency button to win and figure who's the imposter. Try to finish the map to able to win the game this will be the first among us parkour map in Minecraft Bedrock Edition.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/4/satu.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/4/Among Us Parkour Map(2).mcworld",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/4/empat.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/4/dua.png"
+        },
+        {
+            "name": "Among Us Craft",
+            "role": "Hello everyone, I am from the maker of this minecraft folder will provide instructions on this map.  1. The first instruction, When entering the game, we may invite friends with a maximum of 5 players. and you can choose pets among us as you like. 2. Second instruction, when entering the arena, you can immediately carry out your task. If while you are undergoing a task, suddenly the security of Shield, O2, O2 in the admin, and in Reactor is interrupted, press the lever in security. 3. Third instruction, If you become Impostors, do your respective duties. 4. The fourth instruction, If you find a dead body or see an impostor killing, press the Emergency Meeting button in the Cafeteria. After pressing it, you are given the opportunity to vote as long as you want, if you choose who is the impostor, you take the golden sword in the chests and you push him and attack him to death and the sword appears then he is the impostor. If you don't know who the impostor is and haven't voted then you can skip voting and continue playing. If you want to exit the game, then you have to go to the Emergency Meeting and at the voting place there is a button with instructions, press the button you can leave the game.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/6/enam.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/6/IiSAX0UjRQA.mcworld",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/6/empat.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/6/dua.png"
+        },
+        {
+            "name": "Among Us Maps Recreated In Minecraft",
+            "role": "This map includes my recreations of the Among Us maps Skeld, MIRA HQ, Polus, and The Airship. These will be fun to explore alone or play in with friends! You might be able to make these functional using command blocks, but for now their just there to look pretty.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/7/satu.jpeg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/7/Among_Us.mcworld",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/7/empat.jpeg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/7/dua.jpeg"
+        },
+        {
+            "name": "Among Us Map Builder",
+            "role": "Have you ever wondered how can you make your own Among Us levels? Well here's how! Using my creation, you can make your very own levels, play with your friends with it too!",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/8/tiga.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/8/Among Us Map Template.mcworld",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/8/satu.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/8/dua.png"
+        },
+        {
+            "name": "MCBE Among Us v2 (NEW Revamped Vents, Bug Fixes & More!)",
+            "role": "Wanna play Among Us but in Minecraft? Now you can! This map works quite similarly to the actual Among Us and is fully functional. Play with 4 - 10 players! Find the Impostor, or finish your tasks!",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/9/enam.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/9/MCBE_Among_Us_v2_JS_Dy.mcworld",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/9/empat.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/9/dua.png"
+        },
+        {
+            "name": "The Skeld Space Ship From the Game 'Among Us' - Exterior Only",
+            "role": "Ever played the game 'Among Us'? Always wanted to be in the Skeld ship where the game takes place? Well Here you go, I Created this World by Hand for you.  I've Done Both the Exterior and The Interior. Please make my work pay off. The Rest is up to you, Sir/Madam. Greetings! And we Shall Meet Again.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/10/satu.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/10/skeld_both_interior_exterior.mcworld",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/10/empat.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/10/dua.png"
+        },
+        {
+            "name": "AMONG CRAFT (Update)",
+            "role": "This map is based on the game Among Us. It has only THE SKELD map.  This map is also playable you can be CREWMATE or the IMPOSTOR. And here you can do tasks like scanning at the medbay and clicking the buttons on the diamond block.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/11/enam.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/11/Among craft.mcworld",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/11/empat.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/11/dua.png"
+        },
+        {
+            "name": "Among Us: The Skeld, Mira HQ & Polus! (All In One World) (No Mods)",
+            "role": "This is a Minecraft world featuring all 3 Among Us maps: The Skeld, Mira HQ and Polus. It was built in bedrock, and it's best if used with the Alien Worlds texture pack!",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/12/enam.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/12/Among Us map by K&G.mcworld",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/12/empat.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/12/dua.png"
+        },
+        {
+            "name": "PPTG ULTRA WITHER",
+            "role": "Bring up to four friends to battle an extremely powerful updated version of the wither. This fight has quite a few surprises, such as what lies in the lake... Enjoy the fighting.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Wither/6/lima.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/6/3PP4TG f_ 5ULTRA WITHER.mcworld",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/6/lima.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/6/dua.png"
+        },
+        {
+            "name": "Wither Skeleton Morph",
+            "role": "This map is a map using commands to create a wither skeleton morph with special abilities, unlike actual wither skeleton mobs, you have completely different abilities to them.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Wither/8/satu.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/8/Wither Skelly Morph.mcworld",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/8/satu.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/8/satu.png"
+        },
+        {
+            "name": "You vs Wither Boss [Minigame]",
+            "role": "Are you ready for a new challenge? In this map you will have to kill the wither boss without dying in all the battle you be able to do it?",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Wither/14/tiga.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/14/You vs Wither Boss.mcworld",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/14/satu.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/14/dua.png"
+        },
+        {
+            "name": "Mira HQ Remake in Minecraft",
+            "role": "Mira HQ map from Among Us in minecraft! Hang out with friends or explore the map from 1st person. The map doesn’t work like in Among Us, except for the vents. Built by Confusion4653 aka me. Original map by the Innersloth team.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/13/enam.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/13/Mira-HQ_1601230605.mcworld",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/13/empat.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/13/dua.png"
+        },
+        {
+            "name": "Star Wars Addon Official Map 1.2.1",
+            "role": "This map contains 4 star wars planets which means that it is a 4 in 1 map including the planet Jakku, Takodana, Hoth and Mustafar",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/16/enam.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/16/Star Wars Addon 1.2 Map by Doctor Joker .mcworld",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/16/empat.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/16/dua.png"
+        },
+        {
+            "name": "Mini PvP Arena",
+            "role": "Reak havoc on your opponents! Are you looking for quick-paced exciting multiplayer battles? If so, this is the perfect world for you! With multiplayer compatibility, and a pre-made arena with already pre-equipped armor, swords, and Gapples, there's no need to wait or craft your weapons! Want to play in teams? No problem! Just go to the selection area and choose your team! People on the same team can't hurt each other, so band together and control the arena!",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/18/satu.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/18/Insomnia Simple PVP.mcworld",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/18/empat.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/18/dua.png"
+        },
+        {
+            "name": "Wandering Xisuma Trader",
+            "role": "Have you watched Hermitcraft? Then you'll know Xisuma one of the players and YouTubers of the server - This texture pack changes the pesky Wandering Trader to look like xisumavoid's new bee skin he has adopted since season 7",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/19/satu.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/19/XisumaTrade.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/19/satu.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/19/dua.png"
+        },
+        {
+            "name": "Among Us Bedrock Edition V2",
+            "role": "This is mine and my friend's Skeld map on Minecraft Bedrock Edition, but it is a sequel to my original one! The map design is better, and the tasks are better, the sabotages are better, and your friendships will be worse! Thank me later.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Among Us/28/empat.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Among Us/28/Skeld-V2_1606958622.mcworld",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Among Us/28/enam.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Among Us/28/enam.png"
+        }
+    ],
+    "Texture": [
+        {
+            "name": "Better Mob Animations Resource Pack",
+            "role": "Are you bored of the default vanilla mob animations? Well, this addon will spice things up with new and improved minecraft vanilla mob animations! Plus, you can also play with achievements with this resource pack and no need for any experimental toggles!",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Animation/1/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Animation/1/Better Mob Animations v1.9.3 by Raboy13.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Animation/1/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Animation/1/1.png"
+        },
+        {
+            "name": "Bedrock Edition Defense Animation",
+            "role": "Let's get firstperson defense animation! Wave your swords! This pack can work on all servers well , because it is just a resource pack! I offer multiple versions of the pack, never have to worry about compatibilit!",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Animation/2/4.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Animation/2/BedrockEditionDefenseAnimation036.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Animation/2/3.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Animation/2/1.png"
+        },
+        {
+            "name": "yCreatures Savanna (B)",
+            "role": "yCreatures, an amazing super complete add-on that brings even more fun to your Minecraft worlds!! This addon contains several new animals for your game, some cute, some not so friendly, but all amazing and super fun, with various varieties of animation, behavior, models and textures.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Animation/3/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Animation/3/yCreaturesSavannaBehavior.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Animation/3/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Animation/3/1.png"
+        },
+        {
+            "name": "yCreatures Savanna (R)",
+            "role": "yCreatures, an amazing super complete add-on that brings even more fun to your Minecraft worlds!! This addon contains several new animals for your game, some cute, some not so friendly, but all amazing and super fun, with various varieties of animation, behavior, models and textures.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Animation/3/6.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Animation/3/yCreaturesSavannaResource.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Animation/3/5.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Animation/3/4.png"
+        },
+        {
+            "name": "Tameable Minecraft Wither Boss",
+            "role": "Wither is one of the most powerful mobs in Minecraft, in fact sometimes it is unstoppable. But what if you can pet it? What if the strongest mob boss in Minecraft is your pet? The Answer is, now it is Possible! you can tame this monster and become extra powerful",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Wither/12/tiga.jpeg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/12/Tamable Wither Addon - Hard Version.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/12/satu.jpeg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/12/dua.jpeg"
+        },
+        {
+            "name": "Wither Sword & Ender Dragon Sword",
+            "role": "Have you ever wanted to have the power to shoot Wither skulls? or Ender Dragon fireball? Have you ever wanted to kill a wither using wither skulls? or a dragon using a Dragon fireball? Or to kill your friends using the power of the Wither or the Endre Dragon?",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Wither/16/lima.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/16/Wither Sword & Ender Dragon Sword BP.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/16/empat.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/16/dua.png"
+        },
+        {
+            "name": "Easy Potions Full Release",
+            "role": "A brand new pack..... Which help you to find POTIONS Faster..... By adding effect icons on Potion bottles  It basically uses 32x Texture of Potion bottle. And I ported potion effect icons from a game directory :)",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Wither/22/satu.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/22/easy_potion_V1_test_3.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/22/empat.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/22/dua.png"
+        },
+        {
+            "name": "Better Flowers (Nether Update!)",
+            "role": "Have you ever thought that the flowers in Minecraft needed a bit of improving? Did you ever feel that their should be more? Well this texture pack can help you with that! It makes most of the flowers and mushrooms have more in each block, so its more useful for building! It also adds flowers that resemble the double tall flowers!",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Wither/26/enam.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Wither/26/BetterFlowersV2.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Wither/26/empat.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Wither/26/dua.png"
+        },
+        {
+            "name": "Fixed Player Animation (Beta 0.1.0)",
+            "role": "Have you ever been sick of Bedrock Edition's broken animations? This resource pack will fix the player animations! We'll keep trying to fix as many bugs as we can!Note: There may be a few bugs that are not currently present in vanilla. If you find a bug, we'd appreciate it if you'd contact us right away!",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Animation/4/1.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Animation/4/fixed_player_animation_kurisan_fox_kuma.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Animation/4/1.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Animation/4/1.png"
+        },
+        {
+            "name": "Kawaii World! | Texture Pack - Caves & Cliffs: Part I",
+            "role": "Kawaii World! is an officially available texture pack for Bedrock Edition.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Kawaii/1/3.jpeg",
+            "file_url": "https://kossandroid.com//Data Android/Minecraft/Kawaii/1/KawaiiWorld.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Kawaii/1/2.jpeg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Kawaii/1/1.png"
+        },
+        {
+            "name": "Kawaii Foods Add-on (B)",
+            "role": "Tired of the same old minecraft food? This addon adds +50 different foods and some with effects that can be crafted or found in chests in your world. I'm sure you will like it!",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Kawaii/5/3.jpeg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Kawaii/5/Kawaii_Foods_behavior_pack.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Kawaii/5/2.jpeg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Kawaii/5/1.png"
+        },
+        {
+            "name": "Kawaii Foods Add-on (R)",
+            "role": "Tired of the same old minecraft food? This addon adds +50 different foods and some with effects that can be crafted or found in chests in your world. I'm sure you will like it!",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Kawaii/5/3.jpeg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Kawaii/5/Kawaii_Foods_resource_pack.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Kawaii/5/2.jpeg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Kawaii/5/1.png"
+        },
+        {
+            "name": "Java 1.7 Animations V2",
+            "role": "Do you hate the vanilla Bedrock Edition player animations and general feel of the new Bedrock, ever since 1.13.0? Or maybe you want yet another way to make Bedrock look and feel closer to Java Edition, especially for PVP. Look no further, because this pack makes many improvements and tweaks to player animations to more closely resemble Java edition 1.7 (and even bedrock 1.12.1!).",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Animation/5/1.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Animation/5/1.16.100_java_anims_v2_by_ambient.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Animation/5/3.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Animation/5/2.png"
+        },
+        {
+            "name": "EPIC PvP Animations",
+            "role": "Hello! I recently have been developing a PvP texture pack, and I added custom animations. However, some people didn't like some of the animations, so I decided to make this new pack that only modifies the animations.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Animation/6/2.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Animation/6/EpicAnimations.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Animation/6/1.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Animation/6/1.png"
+        }
+    ],
+    "Skins": [
+      {
+        "id": 4646743605,
+        "name_skin": "",
+        "skin_url": "https://lh3.googleusercontent.com/ccXTqq5mRIfv36nbOqvKEu4smlTOgEC9Vx3v_hgMJ7RDI1Zg2z6lIm7d4UhBon3hrSKNAYFV09rmlqHT2uon",
+        "view_skin": "https://lh3.googleusercontent.com/sP7XwfJd6fERGo-ayFyQJtSHnBsoLSUGMjBlIZJOCIfclXUgggCPaC_50jdl03ydpTt5bfn1xHiFIfPE6qODO_I"
+      }
+    ],
+    "More":
+    [
+        
+        
+    
+      {
+        "id":1,
+        "title":"",
+        "image":"",
+        "link":"https://google.com/"
+      }
+    
   
-    {
-      "id":1,
-      "title":"",
-      "image":"",
-      "link":"https://google.com/"
-    }
+        
+        
+        ]
+  }
   
-
-      
-      
-      ]
-}
-
-
-
+  
+  
+  
